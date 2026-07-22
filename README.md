@@ -10,6 +10,6 @@
 <p>this is my first repo</p>
 <br>
 Author-Kashif Ahmad{kle}<br>
-<a href="https://www.youtube.com/"><img src="https://www.copibec.ca/en/nouvelle/525/can-i-legally-show-youtube-videos-or-movies-in-the-classroom-"height="100"/></a> 
+<a href="https://www.youtube.com/">You Tube</a> 
 </body>
 </html>
